@@ -52,7 +52,7 @@ It provides a user-friendly interface to store, update, and retrieve data effici
 ---
 
 ## 🎥 Project Demonstration Video
-[**Watch the Project Video**](https://drive.google.com/file/d/1Ed6tlvZyXt1bo4EcdR4P-brRbM_w4zKL/view?usp=sharing)  
+[**Watch the Project Video**](https://drive.google.com/file/d/1ulNxv1ctWfi7l3MlSa3K1dWqMi9uhXCc/view?usp=sharing)  
 
 **Video Content Includes:**
 - Demonstration of all project functionalities.
